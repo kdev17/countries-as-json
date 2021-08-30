@@ -1,0 +1,1577 @@
+[
+  {
+    "continent": "Europa",
+    "itName": "Italia",
+    "enName": "Italy",
+    "codAlpha2": "IT",
+    "codAlpha3": "ITA"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Albania",
+    "enName": "Albania",
+    "codAlpha2": "AL",
+    "codAlpha3": "ALB"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Andorra",
+    "enName": "Andorra",
+    "codAlpha2": "AD",
+    "codAlpha3": "AND"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Austria",
+    "enName": "Austria",
+    "codAlpha2": "AT",
+    "codAlpha3": "AUT"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Belgio",
+    "enName": "Belgium",
+    "codAlpha2": "BE",
+    "codAlpha3": "BEL"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Bulgaria",
+    "enName": "Bulgaria",
+    "codAlpha2": "BG",
+    "codAlpha3": "BGR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Danimarca",
+    "enName": "Denmark",
+    "codAlpha2": "DK",
+    "codAlpha3": "DNK"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Finlandia",
+    "enName": "Finland",
+    "codAlpha2": "FI",
+    "codAlpha3": "FIN"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Francia",
+    "enName": "France",
+    "codAlpha2": "FR",
+    "codAlpha3": "FRA"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Germania",
+    "enName": "Germany",
+    "codAlpha2": "DE",
+    "codAlpha3": "DEU"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Regno Unito",
+    "enName": "United Kingdom",
+    "codAlpha2": "UK",
+    "codAlpha3": "GBR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Grecia",
+    "enName": "Greece",
+    "codAlpha2": "GR",
+    "codAlpha3": "GRC"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Irlanda",
+    "enName": "Ireland",
+    "codAlpha2": "IE",
+    "codAlpha3": "IRL"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Islanda",
+    "enName": "Iceland",
+    "codAlpha2": "IS",
+    "codAlpha3": "ISL"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Liechtenstein",
+    "enName": "Liechtenstein",
+    "codAlpha2": "LI",
+    "codAlpha3": "LIE"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Lussemburgo",
+    "enName": "Luxembourg",
+    "codAlpha2": "LU",
+    "codAlpha3": "LUX"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Malta",
+    "enName": "Malta",
+    "codAlpha2": "MT",
+    "codAlpha3": "MLT"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Monaco",
+    "enName": "Monaco",
+    "codAlpha2": "MC",
+    "codAlpha3": "MCO"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Norvegia",
+    "enName": "Norway",
+    "codAlpha2": "NO",
+    "codAlpha3": "NOR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Paesi Bassi",
+    "enName": "Netherlands",
+    "codAlpha2": "NL",
+    "codAlpha3": "NLD"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Polonia",
+    "enName": "Poland",
+    "codAlpha2": "PL",
+    "codAlpha3": "POL"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Portogallo",
+    "enName": "Portugal",
+    "codAlpha2": "PT",
+    "codAlpha3": "PRT"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Romania",
+    "enName": "Romania",
+    "codAlpha2": "RO",
+    "codAlpha3": "ROU"
+  },
+  {
+    "continent": "Europa",
+    "itName": "San Marino",
+    "enName": "San Marino",
+    "codAlpha2": "SM",
+    "codAlpha3": "SMR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Spagna",
+    "enName": "Spain",
+    "codAlpha2": "ES",
+    "codAlpha3": "ESP"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Svezia",
+    "enName": "Sweden",
+    "codAlpha2": "SE",
+    "codAlpha3": "SWE"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Svizzera",
+    "enName": "Switzerland",
+    "codAlpha2": "CH",
+    "codAlpha3": "CHE"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Ucraina",
+    "enName": "Ukraine",
+    "codAlpha2": "UA",
+    "codAlpha3": "UKR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Ungheria",
+    "enName": "Hungary",
+    "codAlpha2": "HU",
+    "codAlpha3": "HUN"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Federazione russa",
+    "enName": "Russian Federation",
+    "codAlpha2": "RU",
+    "codAlpha3": "RUS"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Stato della Città del Vaticano",
+    "enName": "Vatican City State",
+    "codAlpha2": "VA",
+    "codAlpha3": "VAT"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Estonia",
+    "enName": "Estonia",
+    "codAlpha2": "EE",
+    "codAlpha3": "EST"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Lettonia",
+    "enName": "Latvia",
+    "codAlpha2": "LV",
+    "codAlpha3": "LVA"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Lituania",
+    "enName": "Lithuania",
+    "codAlpha2": "LT",
+    "codAlpha3": "LTU"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Croazia",
+    "enName": "Croatia",
+    "codAlpha2": "HR",
+    "codAlpha3": "HRV"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Slovenia",
+    "enName": "Slovenia",
+    "codAlpha2": "SI",
+    "codAlpha3": "SVN"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Bosnia-Erzegovina",
+    "enName": "Bosnia and Herzegovina",
+    "codAlpha2": "BA",
+    "codAlpha3": "BIH"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Macedonia del Nord",
+    "enName": "North Macedonia",
+    "codAlpha2": "MK",
+    "codAlpha3": "MKD"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Moldova",
+    "enName": "Moldova",
+    "codAlpha2": "MD",
+    "codAlpha3": "MDA"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Slovacchia",
+    "enName": "Slovakia",
+    "codAlpha2": "SK",
+    "codAlpha3": "SVK"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Bielorussia",
+    "enName": "Belarus",
+    "codAlpha2": "BY",
+    "codAlpha3": "BLR"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Repubblica ceca",
+    "enName": "Czech Republic",
+    "codAlpha2": "CZ",
+    "codAlpha3": "CZE"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Montenegro",
+    "enName": "Montenegro",
+    "codAlpha2": "ME",
+    "codAlpha3": "MNE"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Serbia",
+    "enName": "Serbia",
+    "codAlpha2": "RS",
+    "codAlpha3": "SRB"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Kosovo",
+    "enName": "Kosovo",
+    "codAlpha2": "n.d.",
+    "codAlpha3": "KOS"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Afghanistan",
+    "enName": "Afghanistan",
+    "codAlpha2": "AF",
+    "codAlpha3": "AFG"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Arabia Saudita",
+    "enName": "Saudi Arabia",
+    "codAlpha2": "SA",
+    "codAlpha3": "SAU"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Bahrein",
+    "enName": "Bahrain",
+    "codAlpha2": "BH",
+    "codAlpha3": "BHR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Bangladesh",
+    "enName": "Bangladesh",
+    "codAlpha2": "BD",
+    "codAlpha3": "BGD"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Bhutan",
+    "enName": "Bhutan",
+    "codAlpha2": "BT",
+    "codAlpha3": "BTN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Myanmar/Birmania",
+    "enName": "Myanmar/Burma",
+    "codAlpha2": "MM",
+    "codAlpha3": "MMR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Brunei Darussalam",
+    "enName": "Brunei Darussalam",
+    "codAlpha2": "BN",
+    "codAlpha3": "BRN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Cambogia",
+    "enName": "Cambodia",
+    "codAlpha2": "KH",
+    "codAlpha3": "KHM"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Sri Lanka",
+    "enName": "Sri Lanka",
+    "codAlpha2": "LK",
+    "codAlpha3": "LKA"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Cina",
+    "enName": "China",
+    "codAlpha2": "CN",
+    "codAlpha3": "CHN"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Cipro",
+    "enName": "Cyprus",
+    "codAlpha2": "CY",
+    "codAlpha3": "CYP"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Corea del Nord",
+    "enName": "North Korea",
+    "codAlpha2": "KP",
+    "codAlpha3": "PRK"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Corea del Sud",
+    "enName": "South Korea",
+    "codAlpha2": "KR",
+    "codAlpha3": "KOR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Emirati Arabi Uniti",
+    "enName": "United Arab Emirates",
+    "codAlpha2": "AE",
+    "codAlpha3": "ARE"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Filippine",
+    "enName": "Philippines",
+    "codAlpha2": "PH",
+    "codAlpha3": "PHL"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Palestina",
+    "enName": "Palestine",
+    "codAlpha2": "PS",
+    "codAlpha3": "PSE"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Giappone",
+    "enName": "Japan",
+    "codAlpha2": "JP",
+    "codAlpha3": "JPN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Giordania",
+    "enName": "Jordan",
+    "codAlpha2": "JO",
+    "codAlpha3": "JOR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "India",
+    "enName": "India",
+    "codAlpha2": "IN",
+    "codAlpha3": "IND"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Indonesia",
+    "enName": "Indonesia",
+    "codAlpha2": "ID",
+    "codAlpha3": "IDN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Iran",
+    "enName": "Iran",
+    "codAlpha2": "IR",
+    "codAlpha3": "IRN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Iraq",
+    "enName": "Iraq",
+    "codAlpha2": "IQ",
+    "codAlpha3": "IRQ"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Israele",
+    "enName": "Israel",
+    "codAlpha2": "IL",
+    "codAlpha3": "ISR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Kuwait",
+    "enName": "Kuwait",
+    "codAlpha2": "KW",
+    "codAlpha3": "KWT"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Laos",
+    "enName": "Laos",
+    "codAlpha2": "LA",
+    "codAlpha3": "LAO"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Libano",
+    "enName": "Lebanon",
+    "codAlpha2": "LB",
+    "codAlpha3": "LBN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Timor Leste",
+    "enName": "Timor Leste",
+    "codAlpha2": "TL",
+    "codAlpha3": "TLS"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Maldive",
+    "enName": "Maldives",
+    "codAlpha2": "MV",
+    "codAlpha3": "MDV"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Malaysia",
+    "enName": "Malaysia",
+    "codAlpha2": "MY",
+    "codAlpha3": "MYS"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Mongolia",
+    "enName": "Mongolia",
+    "codAlpha2": "MN",
+    "codAlpha3": "MNG"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Nepal",
+    "enName": "Nepal",
+    "codAlpha2": "NP",
+    "codAlpha3": "NPL"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Oman",
+    "enName": "Oman",
+    "codAlpha2": "OM",
+    "codAlpha3": "OMN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Pakistan",
+    "enName": "Pakistan",
+    "codAlpha2": "PK",
+    "codAlpha3": "PAK"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Qatar",
+    "enName": "Qatar",
+    "codAlpha2": "QA",
+    "codAlpha3": "QAT"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Singapore",
+    "enName": "Singapore",
+    "codAlpha2": "SG",
+    "codAlpha3": "SGP"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Siria",
+    "enName": "Syria",
+    "codAlpha2": "SY",
+    "codAlpha3": "SYR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Thailandia",
+    "enName": "Thailand",
+    "codAlpha2": "TH",
+    "codAlpha3": "THA"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Turchia",
+    "enName": "Turkey",
+    "codAlpha2": "TR",
+    "codAlpha3": "TUR"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Vietnam",
+    "enName": "Vietnam",
+    "codAlpha2": "VN",
+    "codAlpha3": "VNM"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Yemen",
+    "enName": "Yemen",
+    "codAlpha2": "YE",
+    "codAlpha3": "YEM"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Kazakhstan",
+    "enName": "Kazakhstan",
+    "codAlpha2": "KZ",
+    "codAlpha3": "KAZ"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Uzbekistan",
+    "enName": "Uzbekistan",
+    "codAlpha2": "UZ",
+    "codAlpha3": "UZB"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Armenia",
+    "enName": "Armenia",
+    "codAlpha2": "AM",
+    "codAlpha3": "ARM"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Azerbaigian",
+    "enName": "Azerbaijan",
+    "codAlpha2": "AZ",
+    "codAlpha3": "AZE"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Georgia",
+    "enName": "Georgia",
+    "codAlpha2": "GE",
+    "codAlpha3": "GEO"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Kirghizistan",
+    "enName": "Kyrgyzstan",
+    "codAlpha2": "KG",
+    "codAlpha3": "KGZ"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Tagikistan",
+    "enName": "Tajikistan",
+    "codAlpha2": "TJ",
+    "codAlpha3": "TJK"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Taiwan",
+    "enName": "Taiwan",
+    "codAlpha2": "TW",
+    "codAlpha3": "TWN"
+  },
+  {
+    "continent": "Asia",
+    "itName": "Turkmenistan",
+    "enName": "Turkmenistan",
+    "codAlpha2": "TM",
+    "codAlpha3": "TKM"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Algeria",
+    "enName": "Algeria",
+    "codAlpha2": "DZ",
+    "codAlpha3": "DZA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Angola",
+    "enName": "Angola",
+    "codAlpha2": "AO",
+    "codAlpha3": "AGO"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Costa d'Avorio",
+    "enName": "Côte d'Ivoire",
+    "codAlpha2": "CI",
+    "codAlpha3": "CIV"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Benin",
+    "enName": "Benin",
+    "codAlpha2": "BJ",
+    "codAlpha3": "BEN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Botswana",
+    "enName": "Botswana",
+    "codAlpha2": "BW",
+    "codAlpha3": "BWA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Burkina Faso",
+    "enName": "Burkina Faso",
+    "codAlpha2": "BF",
+    "codAlpha3": "BFA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Burundi",
+    "enName": "Burundi",
+    "codAlpha2": "BI",
+    "codAlpha3": "BDI"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Camerun",
+    "enName": "Cameroon",
+    "codAlpha2": "CM",
+    "codAlpha3": "CMR"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Capo Verde",
+    "enName": "Cape Verde",
+    "codAlpha2": "CV",
+    "codAlpha3": "CPV"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Repubblica Centrafricana",
+    "enName": "Central African Republic",
+    "codAlpha2": "CF",
+    "codAlpha3": "CAF"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Ciad",
+    "enName": "Chad",
+    "codAlpha2": "TD",
+    "codAlpha3": "TCD"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Comore",
+    "enName": "Comoros",
+    "codAlpha2": "KM",
+    "codAlpha3": "COM"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Congo",
+    "enName": "Congo",
+    "codAlpha2": "CG",
+    "codAlpha3": "COG"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Egitto",
+    "enName": "Egypt",
+    "codAlpha2": "EG",
+    "codAlpha3": "EGY"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Etiopia",
+    "enName": "Ethiopia",
+    "codAlpha2": "ET",
+    "codAlpha3": "ETH"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Gabon",
+    "enName": "Gabon",
+    "codAlpha2": "GA",
+    "codAlpha3": "GAB"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Gambia",
+    "enName": "Gambia",
+    "codAlpha2": "GM",
+    "codAlpha3": "GMB"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Ghana",
+    "enName": "Ghana",
+    "codAlpha2": "GH",
+    "codAlpha3": "GHA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Gibuti",
+    "enName": "Djibouti",
+    "codAlpha2": "DJ",
+    "codAlpha3": "DJI"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Guinea",
+    "enName": "Guinea",
+    "codAlpha2": "GN",
+    "codAlpha3": "GIN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Guinea-Bissau",
+    "enName": "Guinea-Bissau",
+    "codAlpha2": "GW",
+    "codAlpha3": "GNB"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Guinea equatoriale",
+    "enName": "Equatorial Guinea",
+    "codAlpha2": "GQ",
+    "codAlpha3": "GNQ"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Kenya",
+    "enName": "Kenya",
+    "codAlpha2": "KE",
+    "codAlpha3": "KEN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Lesotho",
+    "enName": "Lesotho",
+    "codAlpha2": "LS",
+    "codAlpha3": "LSO"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Liberia",
+    "enName": "Liberia",
+    "codAlpha2": "LR",
+    "codAlpha3": "LBR"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Libia",
+    "enName": "Libya",
+    "codAlpha2": "LY",
+    "codAlpha3": "LBY"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Madagascar",
+    "enName": "Madagascar",
+    "codAlpha2": "MG",
+    "codAlpha3": "MDG"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Malawi",
+    "enName": "Malawi",
+    "codAlpha2": "MW",
+    "codAlpha3": "MWI"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Mali",
+    "enName": "Mali",
+    "codAlpha2": "ML",
+    "codAlpha3": "MLI"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Marocco",
+    "enName": "Morocco",
+    "codAlpha2": "MA",
+    "codAlpha3": "MAR"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Mauritania",
+    "enName": "Mauritania",
+    "codAlpha2": "MR",
+    "codAlpha3": "MRT"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Maurizio",
+    "enName": "Mauritius",
+    "codAlpha2": "MU",
+    "codAlpha3": "MUS"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Mozambico",
+    "enName": "Mozambique",
+    "codAlpha2": "MZ",
+    "codAlpha3": "MOZ"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Namibia",
+    "enName": "Namibia",
+    "codAlpha2": "NA",
+    "codAlpha3": "NAM"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Niger",
+    "enName": "Niger",
+    "codAlpha2": "NE",
+    "codAlpha3": "NER"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Nigeria",
+    "enName": "Nigeria",
+    "codAlpha2": "NG",
+    "codAlpha3": "NGA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Ruanda",
+    "enName": "Rwanda",
+    "codAlpha2": "RW",
+    "codAlpha3": "RWA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sao Tomé e Principe",
+    "enName": "Sao Tome and Principe",
+    "codAlpha2": "ST",
+    "codAlpha3": "STP"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Seychelles",
+    "enName": "Seychelles",
+    "codAlpha2": "SC",
+    "codAlpha3": "SYC"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Senegal",
+    "enName": "Senegal",
+    "codAlpha2": "SN",
+    "codAlpha3": "SEN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sierra Leone",
+    "enName": "Sierra Leone",
+    "codAlpha2": "SL",
+    "codAlpha3": "SLE"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Somalia",
+    "enName": "Somalia",
+    "codAlpha2": "SO",
+    "codAlpha3": "SOM"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sudafrica",
+    "enName": "South Africa",
+    "codAlpha2": "ZA",
+    "codAlpha3": "ZAF"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sudan",
+    "enName": "Sudan",
+    "codAlpha2": "SD",
+    "codAlpha3": "SDN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Eswatini",
+    "enName": "Eswatini",
+    "codAlpha2": "SZ",
+    "codAlpha3": "SWZ"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Tanzania",
+    "enName": "Tanzania",
+    "codAlpha2": "TZ",
+    "codAlpha3": "TZA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Togo",
+    "enName": "Togo",
+    "codAlpha2": "TG",
+    "codAlpha3": "TGO"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Tunisia",
+    "enName": "Tunisia",
+    "codAlpha2": "TN",
+    "codAlpha3": "TUN"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Uganda",
+    "enName": "Uganda",
+    "codAlpha2": "UG",
+    "codAlpha3": "UGA"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Repubblica Democratica del Congo",
+    "enName": "Democratic Republic of the Congo",
+    "codAlpha2": "CD",
+    "codAlpha3": "COD"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Zambia",
+    "enName": "Zambia",
+    "codAlpha2": "ZM",
+    "codAlpha3": "ZMB"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Zimbabwe",
+    "enName": "Zimbabwe",
+    "codAlpha2": "ZW",
+    "codAlpha3": "ZWE"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Eritrea",
+    "enName": "Eritrea",
+    "codAlpha2": "ER",
+    "codAlpha3": "ERI"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sud Sudan",
+    "enName": "South Sudan",
+    "codAlpha2": "SS",
+    "codAlpha3": "SSD"
+  },
+  {
+    "continent": "America",
+    "itName": "Antigua e Barbuda",
+    "enName": "Antigua and Barbuda",
+    "codAlpha2": "AG",
+    "codAlpha3": "ATG"
+  },
+  {
+    "continent": "America",
+    "itName": "Bahamas",
+    "enName": "Bahamas",
+    "codAlpha2": "BS",
+    "codAlpha3": "BHS"
+  },
+  {
+    "continent": "America",
+    "itName": "Barbados",
+    "enName": "Barbados",
+    "codAlpha2": "BB",
+    "codAlpha3": "BRB"
+  },
+  {
+    "continent": "America",
+    "itName": "Belize",
+    "enName": "Belize",
+    "codAlpha2": "BZ",
+    "codAlpha3": "BLZ"
+  },
+  {
+    "continent": "America",
+    "itName": "Canada",
+    "enName": "Canada",
+    "codAlpha2": "CA",
+    "codAlpha3": "CAN"
+  },
+  {
+    "continent": "America",
+    "itName": "Costa Rica",
+    "enName": "Costa Rica",
+    "codAlpha2": "CR",
+    "codAlpha3": "CRI"
+  },
+  {
+    "continent": "America",
+    "itName": "Cuba",
+    "enName": "Cuba",
+    "codAlpha2": "CU",
+    "codAlpha3": "CUB"
+  },
+  {
+    "continent": "America",
+    "itName": "Dominica",
+    "enName": "Dominica",
+    "codAlpha2": "DM",
+    "codAlpha3": "DMA"
+  },
+  {
+    "continent": "America",
+    "itName": "Repubblica Dominicana",
+    "enName": "Dominican Republic",
+    "codAlpha2": "DO",
+    "codAlpha3": "DOM"
+  },
+  {
+    "continent": "America",
+    "itName": "El Salvador",
+    "enName": "El Salvador",
+    "codAlpha2": "SV",
+    "codAlpha3": "SLV"
+  },
+  {
+    "continent": "America",
+    "itName": "Giamaica",
+    "enName": "Jamaica",
+    "codAlpha2": "JM",
+    "codAlpha3": "JAM"
+  },
+  {
+    "continent": "America",
+    "itName": "Grenada",
+    "enName": "Grenada",
+    "codAlpha2": "GD",
+    "codAlpha3": "GRD"
+  },
+  {
+    "continent": "America",
+    "itName": "Guatemala",
+    "enName": "Guatemala",
+    "codAlpha2": "GT",
+    "codAlpha3": "GTM"
+  },
+  {
+    "continent": "America",
+    "itName": "Haiti",
+    "enName": "Haiti",
+    "codAlpha2": "HT",
+    "codAlpha3": "HTI"
+  },
+  {
+    "continent": "America",
+    "itName": "Honduras",
+    "enName": "Honduras",
+    "codAlpha2": "HN",
+    "codAlpha3": "HND"
+  },
+  {
+    "continent": "America",
+    "itName": "Messico",
+    "enName": "Mexico",
+    "codAlpha2": "MX",
+    "codAlpha3": "MEX"
+  },
+  {
+    "continent": "America",
+    "itName": "Nicaragua",
+    "enName": "Nicaragua",
+    "codAlpha2": "NI",
+    "codAlpha3": "NIC"
+  },
+  {
+    "continent": "America",
+    "itName": "Panama",
+    "enName": "Panama",
+    "codAlpha2": "PA",
+    "codAlpha3": "PAN"
+  },
+  {
+    "continent": "America",
+    "itName": "Santa Lucia",
+    "enName": "Saint Lucia",
+    "codAlpha2": "LC",
+    "codAlpha3": "LCA"
+  },
+  {
+    "continent": "America",
+    "itName": "Saint Vincent e Grenadine",
+    "enName": "Saint Vincent and the Grenadines",
+    "codAlpha2": "VC",
+    "codAlpha3": "VCT"
+  },
+  {
+    "continent": "America",
+    "itName": "Saint Kitts e Nevis",
+    "enName": "Saint Kitts and Nevis",
+    "codAlpha2": "KN",
+    "codAlpha3": "KNA"
+  },
+  {
+    "continent": "America",
+    "itName": "Stati Uniti d'America",
+    "enName": "United States of America",
+    "codAlpha2": "US",
+    "codAlpha3": "USA"
+  },
+  {
+    "continent": "America",
+    "itName": "Argentina",
+    "enName": "Argentina",
+    "codAlpha2": "AR",
+    "codAlpha3": "ARG"
+  },
+  {
+    "continent": "America",
+    "itName": "Bolivia",
+    "enName": "Bolivia",
+    "codAlpha2": "BO",
+    "codAlpha3": "BOL"
+  },
+  {
+    "continent": "America",
+    "itName": "Brasile",
+    "enName": "Brazil",
+    "codAlpha2": "BR",
+    "codAlpha3": "BRA"
+  },
+  {
+    "continent": "America",
+    "itName": "Cile",
+    "enName": "Chile",
+    "codAlpha2": "CL",
+    "codAlpha3": "CHL"
+  },
+  {
+    "continent": "America",
+    "itName": "Colombia",
+    "enName": "Colombia",
+    "codAlpha2": "CO",
+    "codAlpha3": "COL"
+  },
+  {
+    "continent": "America",
+    "itName": "Ecuador",
+    "enName": "Ecuador",
+    "codAlpha2": "EC",
+    "codAlpha3": "ECU"
+  },
+  {
+    "continent": "America",
+    "itName": "Guyana",
+    "enName": "Guyana",
+    "codAlpha2": "GY",
+    "codAlpha3": "GUY"
+  },
+  {
+    "continent": "America",
+    "itName": "Paraguay",
+    "enName": "Paraguay",
+    "codAlpha2": "PY",
+    "codAlpha3": "PRY"
+  },
+  {
+    "continent": "America",
+    "itName": "Perù",
+    "enName": "Peru",
+    "codAlpha2": "PE",
+    "codAlpha3": "PER"
+  },
+  {
+    "continent": "America",
+    "itName": "Suriname",
+    "enName": "Suriname",
+    "codAlpha2": "SR",
+    "codAlpha3": "SUR"
+  },
+  {
+    "continent": "America",
+    "itName": "Trinidad e Tobago",
+    "enName": "Trinidad and Tobago",
+    "codAlpha2": "TT",
+    "codAlpha3": "TTO"
+  },
+  {
+    "continent": "America",
+    "itName": "Uruguay",
+    "enName": "Uruguay",
+    "codAlpha2": "UY",
+    "codAlpha3": "URY"
+  },
+  {
+    "continent": "America",
+    "itName": "Venezuela",
+    "enName": "Venezuela",
+    "codAlpha2": "VE",
+    "codAlpha3": "VEN"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Australia",
+    "enName": "Australia",
+    "codAlpha2": "AU",
+    "codAlpha3": "AUS"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Figi",
+    "enName": "Fiji",
+    "codAlpha2": "FJ",
+    "codAlpha3": "FJI"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Kiribati",
+    "enName": "Kiribati",
+    "codAlpha2": "KI",
+    "codAlpha3": "KIR"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Isole Marshall",
+    "enName": "Marshall Islands",
+    "codAlpha2": "MH",
+    "codAlpha3": "MHL"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Stati Federati di Micronesia",
+    "enName": "Federated States of Micronesia",
+    "codAlpha2": "FM",
+    "codAlpha3": "FSM"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Nauru",
+    "enName": "Nauru",
+    "codAlpha2": "NR",
+    "codAlpha3": "NRU"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Nuova Zelanda",
+    "enName": "New Zealand",
+    "codAlpha2": "NZ",
+    "codAlpha3": "NZL"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Palau",
+    "enName": "Palau",
+    "codAlpha2": "PW",
+    "codAlpha3": "PLW"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Papua Nuova Guinea",
+    "enName": "Papua New Guinea",
+    "codAlpha2": "PG",
+    "codAlpha3": "PNG"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Isole Salomone",
+    "enName": "Solomon Islands",
+    "codAlpha2": "SB",
+    "codAlpha3": "SLB"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Samoa",
+    "enName": "Samoa",
+    "codAlpha2": "WS",
+    "codAlpha3": "WSM"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Tonga",
+    "enName": "Tonga",
+    "codAlpha2": "TO",
+    "codAlpha3": "TON"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Tuvalu",
+    "enName": "Tuvalu",
+    "codAlpha2": "TV",
+    "codAlpha3": "TUV"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Vanuatu",
+    "enName": "Vanuatu",
+    "codAlpha2": "VU",
+    "codAlpha3": "VUT"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Nuova Caledonia",
+    "enName": "New Caledonia",
+    "codAlpha2": "NC",
+    "codAlpha3": "NCL"
+  },
+  {
+    "continent": "America",
+    "itName": "Saint-Martin (FR)",
+    "enName": "Saint Martin (FR)",
+    "codAlpha2": "MF",
+    "codAlpha3": "MAF"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sahara occidentale",
+    "enName": "Western Sahara",
+    "codAlpha2": "EH",
+    "codAlpha3": "ESH"
+  },
+  {
+    "continent": "America",
+    "itName": "Saint-Barthélemy",
+    "enName": "Saint Barthelemy",
+    "codAlpha2": "BL",
+    "codAlpha3": "BLM"
+  },
+  {
+    "continent": "America",
+    "itName": "Bermuda",
+    "enName": "Bermuda",
+    "codAlpha2": "BM",
+    "codAlpha3": "BMU"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Isole Cook (NZ)",
+    "enName": "Cook Islands (NZ)",
+    "codAlpha2": "CK",
+    "codAlpha3": "COK"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Gibilterra",
+    "enName": "Gibraltar",
+    "codAlpha2": "GI",
+    "codAlpha3": "GIB"
+  },
+  {
+    "continent": "America",
+    "itName": "Isole Cayman",
+    "enName": "Cayman Islands",
+    "codAlpha2": "KY",
+    "codAlpha3": "CYM"
+  },
+  {
+    "continent": "America",
+    "itName": "Anguilla",
+    "enName": "Anguilla",
+    "codAlpha2": "AI",
+    "codAlpha3": "AIA"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Polinesia francese",
+    "enName": "French Polynesia",
+    "codAlpha2": "PF",
+    "codAlpha3": "PYF"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Isole Fær Øer",
+    "enName": "Faroe Islands",
+    "codAlpha2": "FO",
+    "codAlpha3": "FRO"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Jersey",
+    "enName": "Jersey",
+    "codAlpha2": "JE",
+    "codAlpha3": "JEY"
+  },
+  {
+    "continent": "America",
+    "itName": "Aruba",
+    "enName": "Aruba",
+    "codAlpha2": "AW",
+    "codAlpha3": "ABW"
+  },
+  {
+    "continent": "America",
+    "itName": "Sint Maarten (NL)",
+    "enName": "St Maarten (NL)",
+    "codAlpha2": "SX",
+    "codAlpha3": "SXM"
+  },
+  {
+    "continent": "America",
+    "itName": "Groenlandia",
+    "enName": "Greenland",
+    "codAlpha2": "GL",
+    "codAlpha3": "GRL"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Sark",
+    "enName": "Sark",
+    "codAlpha2": "n.d.",
+    "codAlpha3": "n.d."
+  },
+  {
+    "continent": "Europa",
+    "itName": "Guernsey",
+    "enName": "Guernsey",
+    "codAlpha2": "GG",
+    "codAlpha3": "GGY"
+  },
+  {
+    "continent": "America",
+    "itName": "Isole Falkland (Malvine)",
+    "enName": "Falkland Islands (Malvinas)",
+    "codAlpha2": "FK",
+    "codAlpha3": "FLK"
+  },
+  {
+    "continent": "Europa",
+    "itName": "Isola di Man",
+    "enName": "Isle of Man",
+    "codAlpha2": "IM",
+    "codAlpha3": "IMN"
+  },
+  {
+    "continent": "America",
+    "itName": "Montserrat",
+    "enName": "Montserrat",
+    "codAlpha2": "MS",
+    "codAlpha3": "MSR"
+  },
+  {
+    "continent": "America",
+    "itName": "Curaçao",
+    "enName": "Curaçao",
+    "codAlpha2": "CW",
+    "codAlpha3": "CUW"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Isole Pitcairn",
+    "enName": "Pitcairn",
+    "codAlpha2": "PN",
+    "codAlpha3": "PCN"
+  },
+  {
+    "continent": "America",
+    "itName": "Saint Pierre e Miquelon",
+    "enName": "Saint Pierre and Miquelon",
+    "codAlpha2": "PM",
+    "codAlpha3": "SPM"
+  },
+  {
+    "continent": "Africa",
+    "itName": "Sant'Elena",
+    "enName": "Saint Helena",
+    "codAlpha2": "SH",
+    "codAlpha3": "SHN"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Terre australi e antartiche francesi",
+    "enName": "French Southern Territories",
+    "codAlpha2": "TF",
+    "codAlpha3": "ATF"
+  },
+  {
+    "continent": "America",
+    "itName": "Isole Turks e Caicos",
+    "enName": "Turks and Caicos Islands",
+    "codAlpha2": "TC",
+    "codAlpha3": "TCA"
+  },
+  {
+    "continent": "America",
+    "itName": "Isole Vergini britanniche",
+    "enName": "British Virgin Islands",
+    "codAlpha2": "VG",
+    "codAlpha3": "VGB"
+  },
+  {
+    "continent": "Oceania",
+    "itName": "Wallis e Futuna",
+    "enName": "Wallis and Futuna Islands",
+    "codAlpha2": "WF",
+    "codAlpha3": "WLF"
+  }
+]
